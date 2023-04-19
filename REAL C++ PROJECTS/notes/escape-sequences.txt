@@ -1,0 +1,9 @@
+\n --> New Line
+\t --> Horizontal Tab
+\b --> Backspace
+\" --> double quote
+\' --> single quote 
+\\ --> backslash
+\? --> Question mark
+\r --> Carriage return
+\a --> Alert (Bell)
